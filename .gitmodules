@@ -1,0 +1,15 @@
+[submodule "Bookinfo-Ratings-Service"]
+	path = Bookinfo-Ratings-Service
+	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-ratings.git
+[submodule "Bookinfo-Reviews-Service"]
+	path = Bookinfo-Reviews-Service
+	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-reviews.git
+[submodule "Bookinfo-Details-Service"]
+	path = Bookinfo-Details-Service
+	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-reviews.git
+[submodule "Bookinfo-ProductPage-Service"]
+	path = Bookinfo-ProductPage-Service
+	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-productpage.git
+[submodule "Bookinfo-Infra"]
+	path = Bookinfo-Infra
+	url = https://github.com/AruchaK/Opsta-bootcamp-infra.git
