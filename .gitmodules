@@ -10,3 +10,6 @@
 [submodule "Bookinfo-ProductPage-Service"]
 	path = Bookinfo-ProductPage-Service
 	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-productpage.git
+[submodule "Bookinfo-Infra"]
+	path = Bookinfo-Infra
+	url = https://github.com/AruchaK/Opsta-bootcamp-infra.git
