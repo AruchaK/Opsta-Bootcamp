@@ -6,7 +6,7 @@
 	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-reviews.git
 [submodule "Bookinfo-Details-Service"]
 	path = Bookinfo-Details-Service
-	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-reviews.git
+	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-details.git
 [submodule "Bookinfo-ProductPage-Service"]
 	path = Bookinfo-ProductPage-Service
 	url = https://github.com/AruchaK/Opsta-bootcamp-bookinfo-productpage.git
